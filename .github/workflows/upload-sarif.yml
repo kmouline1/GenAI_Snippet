@@ -27,4 +27,4 @@ jobs:
           sarif_file: snippet-analysis.sarif
           # Optional category for the results
           # Used to differentiate multiple results for one commit
-          category: my-analysis-tool
+          category: Snippet Analysis
