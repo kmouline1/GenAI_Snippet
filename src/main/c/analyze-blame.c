@@ -1,5 +1,5 @@
 /* SPDX-License-Identifier: LGPL-2.1-or-later */
-/* Testing with John */
+/* Testing with Trace3 */
 
 #include "analyze.h"
 #include "analyze-blame.h"
